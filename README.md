@@ -39,6 +39,6 @@ El software utiliza una arquitectura modular basada en patrones de diseño indus
 3.  Navegue por el menú usando los números indicados.
 4.  Al elegir ejecutar un script (`s`), este se abrirá en una **nueva ventana de comandos**. Al terminar, simplemente cierre esa ventana y presione **Enter** en la terminal principal para volver al menú.
 
----
+
 ## Autor:
 Proyecto elaborado por Gabo.
