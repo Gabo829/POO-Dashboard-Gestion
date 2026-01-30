@@ -1,0 +1,2 @@
+[2026-01-29 22:52:07] Ejecutado exitosamente: 2.1-2. Ejemplo No. 02 - POO.py
+[2026-01-29 22:55:35] Ejecutado exitosamente: 2.1.2-3 - Ejemplo Encapsulación (Cuenta Bancaria).py
